@@ -17,30 +17,42 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Sup. I'm a developer/programmer named Carl.
+[Rust]: https://www.rust-lang.org/
+[dendron]: https://www.dendron.so/
+[Deno]: https://deno.land
+[bun]: https://bun.sh
+[scoop]: https://scoop.sh
+[choco]: https://chocolatey.org
+[pm]: https://wiki.archlinux.org/title/Pacman
+[winget]: https://github.com/microsoft/winget-cli
+[wingetui]: https://github.com/marticliment/WingetUI
+[pwsh]: https://github.com/Powershell/Powershell
+[nushell]: https://nushell.sh
+[Joplin]: https://joplinapp.org
+[Obsidian]: https://obsidian.md
+[QOwnNotes]: https://qownnotes.org
 
-- My favorite javascript/typescript engine is [Deno](https://deno.land).
+Sup. I'm Carl.  I like reading code and docs.
+
+- My favorite javascript/typescript engine is [Deno].
 - My favorite editor is [VSCodium](https://vscodium.com)
-- My favorite package manager for Windows is [`scoop`](https://scoop.sh), but [`winget`]() is getting better.
-  - I believe `winget` makes `choco` obsolete.
-- Favorite commandline cheatsheet utility is:
+- My favorite package manager for Windows is [`scoop`](https://scoop.sh), but [`winget`][winget] is nice.
+- Favorite commandline cheatsheet utility is: `curl https://cht.sh/<search_term>`
 
-```bash
-chtsh() {
-if command -v curl > /dev/null; then
-  curl "https://cht.sh/$*"
-fi
-```
-
+<!--
 - Favorite shells are [`pwsh`](https://github.com/PowerShell/PowerShell), [`nu`](https://www.nushell.sh), and [`zsh`](https://zsh.sourceforge.io/).
-- Favorite markup language is [Github-flavoredMarkdown](https://github.github.com/gfm/).
+-->
+- I enjoy using [Powershell][pwsh]; I find it intuitive and the module system is nice.
+  - Another shell worth looking into is [nushell].  It implements some of the same concepts Powershell does but in a different way, and it's written in [Rust].
+- Favorite markup language is [Github-flavored markdown](https://github.github.com/gfm/).
 - Favorite markdown-to-html tool is [`pandoc`](https://pandoc.org).
 - Favorite terminal git ui apps are [`lazygit`](https://github.com/jesseduffield/lazygit) and [`tig`](https://jonas.github.io/tig/).
 - Favorite serialization file format is [Yaml](https://yaml.org/)
 - I like [MSYS2](https://www.msys2.org) over [Cygwin](https://www.cygwin.com)
 - I like [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install) over [MSYS2](https://www.msys2.org), but it's memory-expensive.
-- Favorite Linux package manager is [`pacman`], which in turn makes [**ArchLinux**](https://archlinux.org/) my favorite distro.
-- Favorite online IDE/Repl site is [Replit](https://repl.it). They have apps for both desktop and mobile and they're _awsomesawce_.
+- Favorite Linux package manager is [`pacman`][pm], which in turn makes [**ArchLinux**](https://archlinux.org/) my favorite distro.
+- Favorite online IDE/Repl site is [Replit](https://repl.it). They have apps for both desktop and mobile and they're awesome and ergonomicly designed with **AI-suggestions built in**, etc.!
+
 
 ### TIP
 
