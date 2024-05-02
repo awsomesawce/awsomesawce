@@ -31,8 +31,12 @@ Here are some ideas to get you started:
 [Joplin]: https://joplinapp.org
 [Obsidian]: https://obsidian.md
 [QOwnNotes]: https://qownnotes.org
+[ripgrep]: https://github.com/BurntSushi/ripgrep
+[UF]: https://ufl.edu
 
 Sup. I'm Carl.  I like reading code and docs.
+
+I'm currently a cybersecurity engineer in training at [University of Florida][UF]
 
 - My favorite javascript/typescript engine is [Deno].
 - My favorite editor is [VSCodium](https://vscodium.com)
@@ -65,3 +69,13 @@ I like writing [scripts](https://github.com/awsomesawce/my-python-scripts) [a](h
 ## Working On
 
 Mainly experimenting with [`deno`](https://deno.land/std) and it's stdlib.
+
+## Lessons I'm Learning
+
+- **Newer**, although flashier, is _not_ always better.
+- Redundancy is _rampant_ in the package manager world.  Sometimes it's best to just pick one tool or module and run with it rather than spending time weighing the pros and cons between multiple pieces of software.
+  - Example: have you counted how many `grep` apps there are available?  Just use [ripgrep] and be done with it.
+
+## In conclusion
+
+Thanks for reading!  Hope we can collaborate on something in the near future!
