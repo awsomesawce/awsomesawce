@@ -61,6 +61,7 @@ I'm currently a cybersecurity engineer in training at [University of Florida][UF
 ### TIP
 
 **Arch Linux** is actually installable as a WSL Linux distro.  See [here](https://learn.microsoft.com/en-us/windows/wsl/install#change-the-default-linux-distribution-installed).
+> They actually added Arch Linux to the Microsoft store.
 
 
 I like writing [scripts](https://github.com/awsomesawce/my-python-scripts) [a](https://github/awsomesawce/my-dotfiles) [lot](https://github.com/awsomesawce/scripts-pwsh)
@@ -68,7 +69,8 @@ I like writing [scripts](https://github.com/awsomesawce/my-python-scripts) [a](h
 
 ## Working On
 
-Mainly experimenting with [`deno`](https://deno.land/std) and it's stdlib.
+- Experimenting with [`deno`](https://deno.land/std), the new [jsr.io](https://jsr.io) and other typescript runtimes.
+- Hardening my privacy setup.
 
 ## Lessons I'm Learning
 
