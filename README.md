@@ -64,9 +64,6 @@ I'm currently a cybersecurity engineer in training at [University of Florida][UF
 > They actually added Arch Linux to the Microsoft store.
 
 
-I like writing [scripts](https://github.com/awsomesawce/my-python-scripts) [a](https://github/awsomesawce/my-dotfiles) [lot](https://github.com/awsomesawce/scripts-pwsh)
-
-
 ## Working On
 
 - Experimenting with [`deno`](https://deno.land/std), the new [jsr.io](https://jsr.io) and other typescript runtimes.
